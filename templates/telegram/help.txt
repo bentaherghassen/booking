@@ -1,0 +1,14 @@
+🤖 <b>Ghassen Ben Taher - Consultation Bot Help</b>
+
+Here is an overview of what I can do:
+• <b>Consultation Alerts:</b> Delivers real-time notifications for incoming client requests and project briefs.
+• <b>Quote Details:</b> Tracks project specifications, budget estimates, and reference IDs.
+• <b>Direct Scoping:</b> Facilitates fast project consultation scheduling.
+
+<b>Available Commands:</b>
+/start - Welcome greeting and consultation intro
+/help - Detailed overview of features and commands
+
+📩 <b>Direct Contact:</b> info@bentaherghassen.com
+💬 <b>WhatsApp:</b> +21629421833
+🌐 <b>Website:</b> <a href="https://bentaherghassen.com">bentaherghassen.com</a>

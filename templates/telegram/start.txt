@@ -1,0 +1,11 @@
+👋 <b>Welcome{% if first_name %}, {{ first_name }}{% endif %}!</b>
+
+What do you want to build or consult on today?
+
+I am the consultation & project assistant for <b>Ghassen Ben Taher</b> (AI Automation Specialist & Software Engineer).
+
+<b>Available Commands:</b>
+/start - Restart or show welcome message
+/help - Overview of bot capabilities and commands
+
+🌐 <i>Submit project requests online:</i> <a href="https://bentaherghassen.com">bentaherghassen.com</a>
